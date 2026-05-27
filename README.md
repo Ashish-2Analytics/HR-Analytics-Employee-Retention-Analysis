@@ -277,7 +277,7 @@ FROM HR_1;
 ---
 
 ### ✅ STEP 7 — Power BI Dashboard
-![Red Recruitment Icon](Screenshot 2026-05-28 010238.png)
+<img src="Screenshot 2026-05-28 010238.png" alt="Red Recruitment Icon" width="100">
 #### 🔗 Connect Power BI to MySQL
 
 1. Open **Power BI Desktop**
